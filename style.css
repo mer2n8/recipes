@@ -2,6 +2,7 @@
 
 * {
     font-family: Arial, Helvetica, sans-serif;
+    background-color: #C1FFC0;
 }
 
 img {
@@ -14,3 +15,6 @@ img {
     border-radius: 2%;
 }
 
+h5 {
+    text-align: center;
+}
