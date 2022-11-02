@@ -22,6 +22,7 @@ h1 {
 
 h5 {
     text-align: center;
+    font-weight: 100;
     color: #707070;
 }
 
@@ -33,9 +34,11 @@ h5 {
 
 .header.subheader {
     font-size: 27px;
+    color: #262AB7
 }
 
 .list {
     font-size: 20px;
     font-weight: 100;
+    color: black;
 }
